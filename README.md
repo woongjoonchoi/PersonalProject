@@ -3,6 +3,7 @@
 This is my peorsnal project using DeepLearning
 ## DeepLearning Paper Reproducing
 + DeepLearning Paper의 모든 configuration을 복제하여 논문의 성능을 재현하고자 함.
++ 현재 진행중
 ## AI Paperboy
 + 4명의 팀을 리드하고 , 슬랙을 사용하여 개인 업무 관리, 줌을 사용하여 미팅을 진행 , 구글 드라이브를 사용하여 문서 관리 및 GIt을 사용한 프로젝트 관리. 이를 통해 주도적으로 원격협업을 이끌었음.
  유저가 뉴스 검색후 관련 뉴스를 검색하는 과정을 줄이기 위해서 관련 뉴스 스니펫을 저장하는 LLM Aplication을 개발해서  관련 뉴스 검색의 4단계 과정을 1단계로 줄여서  검색시간을 40% 감소.
